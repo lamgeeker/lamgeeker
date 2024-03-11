@@ -8,8 +8,7 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/maxym-kosyk-1444302b9/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://steamcommunity.com/profiles/76561198968515992/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"></a>&nbsp;&nbsp;
-
-
+ <a href="https://www.instagram.com/lamgeek/?next=%2F"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>&nbsp;&nbsp;
 
  </p>
 <div align="center">
@@ -38,6 +37,14 @@
 ### - Languages and Tools...
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+
+  #### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/lamgeek/badges/large)
+
+
+
+
 
   <h1 align='center'>🔋<i>Keep focus</i>🔋</h1>
 
