@@ -31,7 +31,7 @@
 
  - 🥀 Learning C# & .net
  
-- Liking Marvel -- Football -- Gym -- Reading 📚, actuall geek 🐱‍💻🐱‍🏍
+- Liking Marvel -- Football -- Gym -- Reading 📚, actual geek 🐱‍💻🐱‍🏍
  
  - All About living life at its best.
 
